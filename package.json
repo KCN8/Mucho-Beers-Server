@@ -1,0 +1,25 @@
+{
+  "name": "mucho-beers-server",
+  "version": "1.0.0",
+  "description": "Server side of a beer tracking app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCN8/Mucho-Beers-Server.git"
+  },
+  "author": "Casey Herold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KCN8/Mucho-Beers-Server/issues"
+  },
+  "homepage": "https://github.com/KCN8/Mucho-Beers-Server#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "knex": "^0.13.0",
+    "pg": "^7.0.2"
+  }
+}
