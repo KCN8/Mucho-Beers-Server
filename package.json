@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KCN8/Mucho-Beers-Server#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "knex": "^0.13.0",
